@@ -13,7 +13,7 @@
 - Link: [Demo](https://test-sql-injection.herokuapp.com/)
 
 ## Set up
--  `Cone project:`[Download](https://github.com/tdt-hai/test_SQL_injection.git)
+-  `Clone project:`[Download](https://github.com/tdt-hai/test_SQL_injection.git)
 - Run: 
     - `B1: clone project ` 
     - `B2: npm install`
